@@ -1,0 +1,8 @@
+{
+  "name": "pingale",
+  "description": "🛎 Check a web address exists",
+  "repository": "https://github.com/omrilotan/pingale",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "ping"],
+  "image": "heroku/nodejs"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "pingale",
+  "version": "0.0.0",
+  "description": "🛎 Check a web address exists",
+  "author": "omrilotan",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0"
+  },
+  "private": true
+}
